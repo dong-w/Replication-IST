@@ -4,7 +4,7 @@
 #### *Nara Institute of Science and Technology, Japan*
 
 ## Abstract
-Context: Contemporary code review tools are a popular choice for software quality assurance. Using these tools, reviewers are able to post a \textit{linkage} between two patches during a review discussion. Large development teams that use a review-then-commit model risk being unaware of these linkages.
+Context: Contemporary code review tools are a popular choice for software quality assurance. Using these tools, reviewers are able to post a linkage between two patches during a review discussion. Large development teams that use a review-then-commit model risk being unaware of these linkages.
 
 Objective: Our objective is to first explore how patch linkage impacts the review process. We then propose and evaluate models that detect patch linkage based on realistic time intervals.
 
